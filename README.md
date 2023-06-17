@@ -1,4 +1,4 @@
-# MEIOE
+# Multiple Expressions In One Emoji (MEIOE)
 
 MEIOE, which stands for Multiple Expressions In One Emoji, is a project aimed at enhancing the expressive capabilities of emojis. Emojis have become an integral part of digital communication, allowing users to convey emotions, reactions, and sentiments quickly. However, traditional emojis typically represent a single expression or emotion. The MEIOE project aims to break this limitation by introducing emojis that can dynamically display multiple expressions within a single emoji.
 
@@ -10,10 +10,10 @@ MEIOE brings a new dimension to the world of emojis, allowing users to express t
 
 By leveraging the power of technology and creative design, the MEIOE project strives to revolutionize the way we use emojis, enabling users to create more expressive and engaging digital conversations.
 
+# Sample Of MEIOE
 https://github.com/Vivek-Gera/MEIOE/assets/95171495/8a8e0b48-ce79-4a09-980b-83ec9cc2ef97
 
-
-# TARGET 
+# Target
 
 The aim of the MEIOE (Multiple Expressions In One Emoji) project is to revolutionize the world of emojis by introducing a new level of expressiveness and versatility. The project aims to overcome the limitations of traditional emojis, which typically depict only a single expression, by allowing users to customize and display multiple expressions within a single emoji.
 
@@ -51,7 +51,7 @@ That's a great idea to integrate the "MEIOE" (Multiple Expressions In One Emoji)
    - Continuously maintain and enhance the MEIOE mobile application based on user feedback and evolving platform requirements.
 
 
-# TECHNOLOGIES/TOOLS 
+# Technologies/Tools 
 
 To implement the MEIOE project (Multiple Expressions In One Emoji) for phone conversations on platforms like WhatsApp, Instagram, etc., you can consider utilizing the following technologies:
 

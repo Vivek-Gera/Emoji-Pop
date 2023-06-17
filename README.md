@@ -10,7 +10,7 @@ MEIOE brings a new dimension to the world of emojis, allowing users to express t
 
 By leveraging the power of technology and creative design, the MEIOE project strives to revolutionize the way we use emojis, enabling users to create more expressive and engaging digital conversations.
 
-[![Usage of MEIOE](https://github.com/Vivek-Gera/MEIOE/assets/95171495/925060dc-a4f3-41e6-a920-a342bd62c1ac)
+https://github.com/Vivek-Gera/MEIOE/assets/95171495/8a8e0b48-ce79-4a09-980b-83ec9cc2ef97
 
 
 # TARGET 
